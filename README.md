@@ -3,6 +3,17 @@ building-great-products
 
 There are so many great products around us but few books that focus on how to build great products.
 
+# Table of Contents
+
+1. Don't Give Users a Dead End
+2. Optimize for Remote Workers
+3. Build Features For Your Community
+4. The Importance of Being Present
+5. Don't Destroy the Forums
+6. Connecting People
+7. Writing Great Documentation
+8. Design and Open Source
+3. Learn the Command Line
 
 License
 =======
